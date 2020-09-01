@@ -29,6 +29,11 @@ limitations under the License.
     <versions-maven-plugin>2.7</versions-maven-plugin>
     <maven-gpg-plugin>1.6</maven-gpg-plugin>
     <pmdVersion>6.27.0</pmdVersion>
+        
+   <sonar.projectKey>OwuoAtwedee_wits2020java2</sonar.projectKey>
+  <sonar.organization>owuoatwedee</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        
   </properties>
 
   <groupId>com.google.cloud.samples</groupId>
